@@ -1,7 +1,3 @@
----
-title: NBULA (Non-Binary Union LA)
-___
-
 [NBULA on Instagram](https://www.instagram.com/the_nbula/)
 
 [Communication Guidelines for NBULA](https://bit.ly/nbulaguidelines)
