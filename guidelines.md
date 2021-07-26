@@ -22,3 +22,5 @@ In this community...
    5. Staying mindful of pronouns and other gendered language
    6. Remembering to tell our own stories
    7. Keeping community member’s identities confidential, only sharing with explicit consent
+
+[Home](.)
