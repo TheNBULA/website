@@ -2,7 +2,7 @@ We welcome anyone who identifies underneath the non-binary umbrella, beyond the 
 
 # [NBULA on Instagram](https://www.instagram.com/the_nbula/)
 
-### [Communication Guidelines for NBULA](https://bit.ly/nbulaguidelines)
+### [Communication Guidelines for NBULA](communication_guidelines.md)
 
 ### [GIVE NBULA FEEDBACK](https://docs.google.com/forms/d/e/1FAIpQLSd-lDTbmo4D2jFeUQ-UxL0GP3Q40s99g2LBt0UjMJuCoLowfw/viewform)
 
