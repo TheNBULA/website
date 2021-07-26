@@ -1,3 +1,6 @@
+title: NBULA 
+description: Non-Binary Union LA [DRAFT/unofficial website]
+
 exclude:
   README.md
 plugins:
@@ -5,6 +8,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+show_downloads: false
 theme: jekyll-theme-slate
-title: NBULA 
-description: Non-Binary Union LA [DRAFT/unofficial website]
