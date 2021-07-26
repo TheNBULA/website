@@ -1,10 +1,10 @@
-[NBULA on Instagram](https://www.instagram.com/the_nbula/)
+# [NBULA on Instagram](https://www.instagram.com/the_nbula/)
 
-[Communication Guidelines for NBULA](https://bit.ly/nbulaguidelines)
+## [Communication Guidelines for NBULA](https://bit.ly/nbulaguidelines)
 
-[GIVE NBULA FEEDBACK](https://docs.google.com/forms/d/e/1FAIpQLSd-lDTbmo4D2jFeUQ-UxL0GP3Q40s99g2LBt0UjMJuCoLowfw/viewform)
+### [GIVE NBULA FEEDBACK](https://docs.google.com/forms/d/e/1FAIpQLSd-lDTbmo4D2jFeUQ-UxL0GP3Q40s99g2LBt0UjMJuCoLowfw/viewform)
 
-[RSVP: NBULA Community Calls (Wednesdays)](https://us02web.zoom.us/meeting/register/tZAvdOquqT4sHdwc4LCjg7WVhtGeG38hrxpl)
+#### [RSVP: NBULA Community Calls (Wednesdays)](https://us02web.zoom.us/meeting/register/tZAvdOquqT4sHdwc4LCjg7WVhtGeG38hrxpl)
 
 [RSVP: BIPoC NBULA Call (2nd Tuesday Monthly)](http://bit.ly/bipocnbula)
 
