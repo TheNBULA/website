@@ -1,3 +1,5 @@
+We welcome anyone who identifies underneath the non-binary umbrella, beyond the binaries of sex and/or gender, and folks who are questioning.
+
 # [NBULA on Instagram](https://www.instagram.com/the_nbula/)
 
 ### [Communication Guidelines for NBULA](https://bit.ly/nbulaguidelines)
