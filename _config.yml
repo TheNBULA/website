@@ -11,4 +11,4 @@ relative_links:
   enabled: true
   collections: true
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
