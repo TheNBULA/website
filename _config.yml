@@ -3,6 +3,8 @@ description: Non-Binary Union LA [DRAFT/unofficial website]
 
 exclude:
   README.md
+github:
+  is_project_page: false
 plugins:
   - jekyll-relative-links
 relative_links:
