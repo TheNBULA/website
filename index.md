@@ -8,7 +8,8 @@ We welcome anyone who identifies underneath the non-binary umbrella, beyond the 
 
 ### [RSVP: NBULA Community Calls (Wednesdays)](https://us02web.zoom.us/meeting/register/tZAvdOquqT4sHdwc4LCjg7WVhtGeG38hrxpl)
 
-### [RSVP: BIPoC NBULA Call (2nd Tuesday Monthly)](http://bit.ly/bipocnbula)
+### [RSVP: BIPoC NBULA Call (2nd Tuesday Monthly)](https://us02web.zoom.us/meeting/register/tZclduqgqj0uGdM2mSFhvA6WM-TrzGcMusxO)
+<!-- if you change the URL for the BIPOC call, remember to also update bipoc-call.html -->
 
 ### [RSVP: Crafty Queers (2nd Saturday Monthly)](https://us02web.zoom.us/meeting/register/tZ0vdeytqjwpGNGWf3GlUlMafaeFuGqtk0BN)
 
