@@ -7,6 +7,7 @@ This page provides a formatting example that can be viewed rendered (https://nbu
 ### Heading 3
 #### Heading 4
 ##### Heading 5
+
 ```markdown
 # Heading 1
 ## Heading 2
@@ -17,23 +18,19 @@ This page provides a formatting example that can be viewed rendered (https://nbu
 
 -----
 
-**bold text**
+textual emphasis includes **bold text**, *italic text*, and ***bold and italic text***.
+
 ```markdown
-**bold text**
+textual emphasis includes **bold text**, *italic text*, and ***bold and italic text***.
 ```
 
 -----
 
-*italic text*
-```
-*italic text*
-```
-
------
 
 - unordered list item
 - unordered list item
 - unordered list item
+
 ```markdown
 - unordered list item
 - unordered list item
@@ -45,6 +42,7 @@ This page provides a formatting example that can be viewed rendered (https://nbu
 1. ordered list first item
 2. ordered list second item
 3. ordered list third item
+
 ```markdown
 1. ordered list first item
 2. ordered list second item
