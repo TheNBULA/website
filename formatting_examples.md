@@ -18,10 +18,10 @@ This page provides a formatting example that can be viewed rendered (https://nbu
 
 -----
 
-textual emphasis includes **bold text**, *italic text*, and ***bold and italic text***.
+textual emphasis includes **bold text**, *italic text*, and ***bold and italic text.***
 
 ```markdown
-textual emphasis includes **bold text**, *italic text*, and ***bold and italic text***.
+textual emphasis includes **bold text**, *italic text*, and ***bold and italic text.***
 ```
 
 -----
