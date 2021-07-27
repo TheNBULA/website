@@ -13,7 +13,7 @@ In this community...
    2. Being aware of tone policing and how our own biases may be re-enacting oppression in the space
    3. Taking space and making space
    4. Valuing feedback as an act of generosity and trust, by reflecting on feedback we receive before responding.
-      - This includes NBULA as an entity. We want to hear from you!
+      - This includes NBULA as an entity. [We want to hear from you!](https://docs.google.com/forms/d/e/1FAIpQLSd-lDTbmo4D2jFeUQ-UxL0GP3Q40s99g2LBt0UjMJuCoLowfw/viewform)
 3. **We practice respecting ourselves and each other by...**
    1. Speaking with "I" and from our own experiences
    2. Resisting the urge to compare our gender journeys
