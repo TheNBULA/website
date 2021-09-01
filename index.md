@@ -13,8 +13,6 @@ We welcome anyone who identifies underneath the non-binary umbrella, beyond the 
 
 ### [RSVP: Crafty Queers (2nd Saturday Monthly)](https://us02web.zoom.us/meeting/register/tZ0vdeytqjwpGNGWf3GlUlMafaeFuGqtk0BN)
 
-### [2020 Community Calls Survey](https://forms.gle/oPgQfj1F8izLfZq46)
-
 ### ["Get It Off Your Chest" Top Surgery Call (Resources List)](https://docs.google.com/document/d/1F9UtTB0cxKqqkQZ6HIdObh61jDQjmwO-lFAJ87oxwX4/edit?usp=sharing)
 
 ### [NBULA on Facebook](https://www.facebook.com/TheNBULA/)
