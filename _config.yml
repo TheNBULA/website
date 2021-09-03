@@ -1,8 +1,8 @@
-title: NBULA 
+title: NBULA
 description: Non-Binary Union Los Angeles
 
 exclude:
-  README.md
+  - README.md
 github:
   is_project_page: false
 plugins:
@@ -10,5 +10,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+repository: TheNBULA/website
 show_downloads: false
 theme: jekyll-theme-cayman
