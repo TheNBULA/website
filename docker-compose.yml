@@ -1,0 +1,16 @@
+# https://docs.docker.com/compose/compose-file/compose-file-v3/
+version: "3.0"
+
+services:
+
+  jekyll:
+    command: jekyll serve --incremental
+    # https://pages.github.com/versions/
+    image: jekyll/minimal:pages
+    ports:
+      - "4000:4000"
+    restart: always
+    tty: true
+    volumes:
+      # https://github.com/docker/for-mac/issues/1592
+      - ./:/srv/jekyll
