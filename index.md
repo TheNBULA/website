@@ -10,7 +10,10 @@ We welcome anyone who identifies underneath the non-binary umbrella, beyond the 
 - [RSVP: BIPoC Community Call (2nd Tuesday Monthly)](https://us02web.zoom.us/meeting/register/tZclduqgqj0uGdM2mSFhvA6WM-TrzGcMusxO)
 - [RSVP: General Community Call (Wednesdays)](https://us02web.zoom.us/meeting/register/tZAvdOquqT4sHdwc4LCjg7WVhtGeG38hrxpl)
 <!-- if you change the URL for the BIPOC call, remember to also update bipoc-call.html -->
+<!--
 - [RSVP: Crafty Queers (2nd Saturday Monthly)](https://us02web.zoom.us/meeting/register/tZ0vdeytqjwpGNGWf3GlUlMafaeFuGqtk0BN)
+-->
+- [RSVP: 10/9 Crafty Queers & Clothing Swap](https://www.eventbrite.com/e/crafty-queers-clothing-swap-tickets-187482624577)
 
 ## Communication & Feedback
 
