@@ -7,9 +7,9 @@ We welcome anyone who identifies underneath the non-binary umbrella, beyond the 
 
 ## RSVP for Regular Events
 
-- [RSVP: BIPoC Community Call (2nd Tuesday Monthly)](https://us02web.zoom.us/meeting/register/tZclduqgqj0uGdM2mSFhvA6WM-TrzGcMusxO)
-- [RSVP: General Community Call (Wednesdays)](https://us02web.zoom.us/meeting/register/tZAvdOquqT4sHdwc4LCjg7WVhtGeG38hrxpl)
 <!-- if you change the URL for the BIPOC call, remember to also update bipoc-call.html -->
+- [RSVP: BIPoC Community Call (2nd Tuesday Monthly)](https://us02web.zoom.us/j/82384778740?pwd=a05SSUhPUHoxeGlVSWYydG94T09KZz09)
+- [RSVP: General Community Call (Wednesdays)](https://us02web.zoom.us/j/85825002579?pwd=Ym5RdWRHOWgxZitkTTVPZWFZQW15QT09)
 
 ## Communication & Feedback
 
