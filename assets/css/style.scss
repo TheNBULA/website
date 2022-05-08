@@ -1,0 +1,28 @@
+---
+---
+
+// Text
+$section-headings-color: purple;
+$body-text-color: dimgrey;
+$body-link-color: royalblue;
+$body-link-color: mediumblue;
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-color: $section-headings-color;
+    background-image: url("/assets/nbula_logo_white.png"), linear-gradient(90deg, black, black, purple, purple, white, white, yellow, yellow);
+    background-position: top 1rem left 1rem, center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 2px solid black;
+    color: gray;
+    height: 10rem;
+    text-align: right;
+}
+.project-name, .project-tagline {
+    display: none;
+}
+.site-footer-credits, .site-footer-credits > a {
+    color: lightgrey;
+}
