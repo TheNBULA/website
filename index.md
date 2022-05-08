@@ -1,4 +1,4 @@
-We welcome anyone who identifies underneath the non-binary umbrella, beyond the binaries of sex and/or gender, and folks who are questioning.
+**The Non-Binary Union of Los Angeles (NBULA)** welcomes anyone who identifies underneath the non-binary umbrella, beyond the binaries of sex and/or gender, and folks who are questioning.
 
 
 ## Social Media
