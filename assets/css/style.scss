@@ -11,7 +11,7 @@ $body-link-color: mediumblue;
 
 .page-header {
     background-color: $section-headings-color;
-    background-image: url("/assets/nbula_logo_white.png"), linear-gradient(90deg, black, black, purple, purple, white, white, yellow, yellow);
+    background-image: url("../nbula_logo_white.png"), linear-gradient(90deg, black, black, purple, purple, white, white, yellow, yellow);
     background-position: top 1rem left 1rem, center;
     background-repeat: no-repeat;
     background-size: contain;
