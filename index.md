@@ -7,11 +7,13 @@
 - [NBULA on Facebook](https://www.facebook.com/TheNBULA/)
 
 
-## RSVP for Regular Events
+## Events
 
+- [Calendar](calendar.md)
 <!-- if you change the URL for the BIPOC call, remember to also update bipoc-call.html -->
-- [RSVP: BIPoC Community Call (2nd Tuesday Monthly)](https://us02web.zoom.us/j/82384778740?pwd=a05SSUhPUHoxeGlVSWYydG94T09KZz09)
-- [RSVP: General Community Call (Wednesdays)](https://us02web.zoom.us/j/85825002579?pwd=Ym5RdWRHOWgxZitkTTVPZWFZQW15QT09)
+- Recurring Zoom Calls:
+  - [BIPoC Community Call (2nd Tuesday monthly)](https://us02web.zoom.us/j/82384778740?pwd=a05SSUhPUHoxeGlVSWYydG94T09KZz09)
+  - [General Community Call (every other Wednesday)](https://us02web.zoom.us/j/85825002579?pwd=Ym5RdWRHOWgxZitkTTVPZWFZQW15QT09)
 
 
 ## Communication & Feedback
