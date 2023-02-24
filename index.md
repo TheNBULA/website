@@ -10,9 +10,7 @@
 ## Events
 
 - [Calendar](calendar.md)
-<!-- if you change the URL for the BIPOC call, remember to also update bipoc-call.html -->
 - Recurring Zoom Calls:
-  - [BIPoC Community Call (2nd Tuesday monthly)](https://us02web.zoom.us/j/82384778740?pwd=a05SSUhPUHoxeGlVSWYydG94T09KZz09)
   - [General Community Call (every other Wednesday)](https://us02web.zoom.us/j/85825002579?pwd=Ym5RdWRHOWgxZitkTTVPZWFZQW15QT09)
 
 
@@ -34,9 +32,15 @@
 
 ## Mission Statement
 
-The Non-Binary Union of Los Angeles (NBULA) builds social spaces for people who identify underneath the non-binary umbrella, beyond the binaries of sex and/or gender, and folks who are questioning. In NBULA communities we seek to celebrate, connect, explore, and express our identities together.
+The Non-Binary Union of Los Angeles (NBULA) builds social spaces for people who
+identify underneath the non-binary umbrella, beyond the binaries of sex and/or
+gender, and folks who are questioning. In NBULA communities we seek to
+celebrate, connect, explore, and express our identities together.
 
-Ableism, capitalism, and racism have harmed our communities. We oppose their ideologies and are committed to unlearning what we have already internalized. We are building a present and future world where we can belong authentically, wherever we are.
+Ableism, capitalism, and racism have harmed our communities. We oppose their
+ideologies and are committed to unlearning what we have already internalized.
+We are building a present and future world where we can belong authentically,
+wherever we are.
 
 NBULA was established on Tongva Land (so-called Los Angeles) in 2019.
 
