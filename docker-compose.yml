@@ -1,12 +1,12 @@
 # https://docs.docker.com/compose/compose-file/compose-file-v3/
-version: "3.0"
+version: "3.8"
 
 services:
 
   jekyll:
+    build: .
     command: jekyll serve --incremental
-    # https://pages.github.com/versions/
-    image: jekyll/minimal:pages
+    container_name: jekyll-nbula
     ports:
       - "4000:4000"
     restart: always
