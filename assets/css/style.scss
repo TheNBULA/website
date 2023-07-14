@@ -2,8 +2,11 @@
 ---
 
 // Text
-$section-headings-color: purple;
-$body-text-color: dimgrey;
+$nb-yellow-color: #fff433;
+$nb-lavender-color: #9b59d0;
+$nb-black-color: #2d2d2d;
+$section-headings-color: $nb-lavender-color;
+$body-text-color: $nb-black-color;
 $body-link-color: royalblue;
 $body-link-color: mediumblue;
 
@@ -11,13 +14,14 @@ $body-link-color: mediumblue;
 
 .page-header {
     background-color: $section-headings-color;
-    background-image: url("../nbula_logo_white.png"), linear-gradient(90deg, black, black, purple, purple, white, white, yellow, yellow);
-    background-position: top 1rem left 1rem, center;
+    background-image: url("../nbula_logo_swirl_on_transparent.png"), linear-gradient(90deg, $nb-black-color, $nb-black-color, $nb-lavender-color, $nb-lavender-color, white, white, $nb-yellow-color, $nb-yellow-color);
+    background-origin: content-box, padding-box;
+    background-position: left, center;
     background-repeat: no-repeat;
     background-size: contain;
-    border: 2px solid black;
-    color: gray;
+    border: 2px solid $nb-black-color;
     height: 10rem;
+    padding: 0.5rem;
     text-align: right;
 }
 .project-name, .project-tagline {
