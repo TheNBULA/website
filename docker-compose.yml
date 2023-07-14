@@ -1,15 +1,18 @@
-# https://docs.docker.com/compose/compose-file/compose-file-v3/
-version: "3.8"
+# Also see:
+#   Dockerfile
+#
+# https://docs.docker.com/compose/compose-file/compose-file-v2/
+
+version: "2.4"
 
 services:
 
   jekyll:
     build: .
-    command: jekyll serve --incremental
     container_name: jekyll-nbula
     ports:
       - "4000:4000"
-    restart: always
+    restart: on-failure
     tty: true
     volumes:
       # https://github.com/docker/for-mac/issues/1592
