@@ -19,7 +19,7 @@ and folks who are questioning.
   for NBULA news and information)
 
 
-## Events
+## ~~Events~~
 
 - ~~[Calendar](calendar.md)~~
 
