@@ -1,28 +1,32 @@
-**The Non-Binary Union of Los Angeles (NBULA)** welcomes anyone who identifies underneath the non-binary umbrella, beyond the binaries of sex and/or gender, and folks who are questioning.
+<div class="notice1">
+<div class="notice2">
+<div class="notice3">
+<p>The Non-Binary Union of Los Angeles (NBULA) is no longer meeting.</p>
+<p>Please visit <a href="https://gjla.nationbuilder.com/">Gender Justice LA</a> or a similar organization near you.</p>
+<p>💛🤍💜🖤</p>
+</div>
+</div>
+</div>
+
+**The Non-Binary Union of Los Angeles (NBULA)** welcomes anyone who identifies
+underneath the non-binary umbrella, beyond the binaries of sex and/or gender,
+and folks who are questioning.
 
 
 ## Social Media
 
-- **[NBULA on Instagram](https://www.instagram.com/the_nbula/)** (primary location for NBULA news and information)
-- [NBULA on Facebook](https://www.facebook.com/TheNBULA/)
+- [NBULA on Instagram](https://www.instagram.com/the_nbula/) (primary location
+  for NBULA news and information)
 
 
-## Events
+## ~~Events~~
 
-- [Calendar](calendar.md)
-- Recurring Zoom Calls:
-  - [General Community Call (every other Wednesday)](https://us02web.zoom.us/j/85825002579?pwd=Ym5RdWRHOWgxZitkTTVPZWFZQW15QT09)
+- ~~[Calendar](calendar.md)~~
 
 
 ## Communication & Feedback
 
 - [Communication Guidelines for NBULA](guidelines.md)
-- **[Anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSd-lDTbmo4D2jFeUQ-UxL0GP3Q40s99g2LBt0UjMJuCoLowfw/viewform)**
-
-
-## Resources
-
-- ["Get It Off Your Chest" Top Surgery Call (Resources List)](https://docs.google.com/document/d/1F9UtTB0cxKqqkQZ6HIdObh61jDQjmwO-lFAJ87oxwX4/edit?usp=sharing)
 
 
 ## NBULA in the News
