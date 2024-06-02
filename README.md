@@ -23,7 +23,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheNBULA/website/settings/pages). The name of this theme is saved in the Jekyll [`_config.yml`](_config.yml) configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have
+selected in your [repository
+settings](https://github.com/TheNBULA/website/settings/pages). The name of this
+theme is saved in the Jekyll [`_config.yml`](_config.yml) configuration file:
+- [pages-themes/cayman](https://github.com/pages-themes/cayman): *Cayman is a
+  Jekyll theme for GitHub Pages*
 
 
 ### Support or Contact
